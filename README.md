@@ -12,4 +12,4 @@
    1. 使用缓存处理web层并发请求
    2. 不适用Spring声明式事务管理，而使用存储过程让数据库来做并发事务的控制
 
-* 参考慕课网 [yijun zhang](https://www.imooc.com/u/2145618) 的教学视频
+*参考慕课网 [yijun zhang](https://www.imooc.com/u/2145618) 的教学视频*
